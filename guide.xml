@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo RJ">
+    <display-name lang="en">Globo RJ</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Globo RJ HD">
+    <display-name lang="pt">Globo RJ HD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="en">Warner Channel</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name lang="pt">Warner Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20211002003000 +0000" stop="20211002013500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Maurílio vai ao apartamento de Téo Pereira.(n)</desc>
+  </programme>
+  <programme start="20211002013500 +0000" stop="20211002023500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Falas Da Vida</title>
+    <desc lang="pt">O especial vai apresentar cinco personagens idosos, até agora anônimos, para contar suas histórias! O programa vai ao ar no Dia Internacional dos Direitos das Pessoas Idosas e tem a apresentação da atriz e cantora Zezé Motta.(n)</desc>
+  </programme>
+  <programme start="20211002023500 +0000" stop="20211002024500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Uma história de amor e obsessão, embalada pelo clima de glamour, poder, desejo, armadilhas e ilusões.(n)</desc>
+  </programme>
+  <programme start="20211002024500 +0000" stop="20211002033500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20211002033500 +0000" stop="20211002041500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Pedro Bial recebe a atriz Sylvia Bandeira para falarem sobre cinema, teatro e televisão.(n)</desc>
+  </programme>
+  <programme start="20211002041500 +0000" stop="20211002060000 +0000" channel="Globo RJ HD">
+    <title lang="pt">Corujão I - Snatch - Porcos E Diamantes</title>
+    <title lang="en">Snatch</title>
+    <desc lang="pt">Frankie Quatro-Dedos é um ladrão de diamantes que também faz o trabalho de intermediário de peças roubadas. De passagem por Londres, ele precisa chegar até Nova York para vender alguns diamantes de seu chefe, Avi. Porém, a tentação é mais forte e ele acaba dando uma pausa em sua viagem para apostar em uma luta ilegal de boxe. Enquanto isso, dois promotores de lutas chamados Turco e Tommy se unem a um fazendeiro local, Coco de Tijolo, na tentativa de convencer Mickey O'Neil, um pugilista cigano, a participar de uma luta sem luvas, onde vale tudo. O'Neil inicialmente não aceita a proposta, mas termina concordando em participar de uma luta da dupla. Já Avi, impaciente com a demora de Frankie Quatro-Dedos, contrata "Bullet Tooth" Tony para encontrá-lo e trazer consigo os diamantes.(n)</desc>
+  </programme>
+  <programme start="20211002060000 +0000" stop="20211002073000 +0000" channel="Globo RJ HD">
+    <title lang="pt">Corujão II - Ferrugem</title>
+    <title lang="en">Ferrugem</title>
+    <desc lang="pt">Assim como a maioria dos adolescentes, a jovem Tati (Tiffanny Dopke) ama compartilhar sua vida nas redes sociais e registrar todos os momentos. Porém, após perder o inseparável celular, ela se vê vítima da criminosa divulgação de seus registros íntimos no grupo de whatsapp da turma do colégio, o que gera terríveis consequências.(n)</desc>
+  </programme>
+  <programme start="20211002073000 +0000" stop="20211002085500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Corujão III - Real - O Plano Por Trás Da História</title>
+    <title lang="en">Real - O Plano Por Trás Da História</title>
+    <desc lang="pt">1993. Arrogante e inflexível, Gustavo Franco é um crítico feroz da política econômica adotada pelo governo brasileiro nos últimos anos, que resultou em um cenário de hiperinflação. Opositor de políticas de cunho social, ele é adepto de um choque fiscal de forma que seja criada uma moeda forte, que devolva a dignidade aos cidadãos. Quando o presidente Itamar Franco nomeia Fernando Henrique Cardoso como o novo ministro da Fazenda, Gustavo é convidado a integrar uma verdadeira força-tarefa, cujo objetivo é criar um novo plano econômico.(n)</desc>
+  </programme>
+  <programme start="20211002085500 +0000" stop="20211002095000 +0000" channel="Globo RJ HD">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.(n)</desc>
+  </programme>
+  <programme start="20211002095000 +0000" stop="20211002150000 +0000" channel="Globo RJ HD">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Claude Troigros, Larissa Manoela e os amigos Waguinho e Salgadinho participam do ‘É de Casa’ deste sábado.(n)</desc>
+  </programme>
+  <programme start="20211002150000 +0000" stop="20211002160000 +0000" channel="Globo RJ HD">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211002160000 +0000" stop="20211002162500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20211002162500 +0000" stop="20211002171000 +0000" channel="Globo RJ HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20211002171000 +0000" stop="20211002181500 +0000" channel="Globo RJ HD">
+    <title lang="pt">O Melhor Da Escolinha</title>
+    <desc lang="pt">Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.(n)</desc>
+  </programme>
+  <programme start="20211002181500 +0000" stop="20211002194500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Sessão De Sábado - E.T. - O Extraterrestre</title>
+    <title lang="en">E.T. The Extra-Terrestrial</title>
+    <desc lang="pt">O garoto Elliott faz amizade com um pequeno alienígena inofensivo que está bem longe do seu planeta. Ele decide manter a adorável criatura em segredo e em casa após apresentá-la aos irmãos.(n)</desc>
+  </programme>
+  <programme start="20211002194500 +0000" stop="20211002213500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Caldeirão</title>
+    <desc lang="pt">Heloisa Périssé, Ailton Graça, Poliana Abritta e Manoel Soares estão no ‘Caldeirão’.(n)</desc>
+  </programme>
+  <programme start="20211002213500 +0000" stop="20211002222000 +0000" channel="Globo RJ HD">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  <programme start="20211002222000 +0000" stop="20211002224500 +0000" channel="Globo RJ HD">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211002224500 +0000" stop="20211002233000 +0000" channel="Globo RJ HD">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  <programme start="20211002233000 +0000" stop="20211003002500 +0000" channel="Globo RJ HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+</tv>
