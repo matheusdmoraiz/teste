@@ -1,0 +1,941 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+...
+<channel id="GLOBO">
+    <display-name lang="pt">Globo RJ</display-name></channel>
+<channel id="NICK">
+    <display-name lang="pt">Nickelodeon</display-name></channel>
+<channel id="COMEDY CENTRAL">
+    <display-name lang="pt">Comedy Central</display-name></channel>
+<channel id="WARNER CHANNEL">
+    <display-name lang="pt">Warner Channel</display-name></channel>
+...
+...
+<programme start="20211004203000 -0300" stop="20211004213000 -0300" channel="GLOBO">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+	<credits>
+    <director>William Bonner</director>
+		</credits>
+</programme>
+...
+<programme start="20211004213000 -0300" stop="20211004223500 -0300" channel="GLOBO">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Cristina impede Cora de falar com José Alfredo. Josué ouve Merival se declarar para Maria Marta. Maria Marta chora ao ver Maria Ísis com José Alfredo.</desc>
+    <date>2014</date>
+    <category lang="pt">Novela</category>
+	<credits>
+    <director>Rogério Gomes</director>
+		</credits>
+</programme>
+...
+<programme start="20211004223500 -0300" stop="20211004231500 -0300" channel="GLOBO">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Uma história de amor e obsessão, embalada pelo clima de glamour, poder, desejo, armadilhas e ilusões.</desc>
+    <date>2015</date>
+    <category lang="pt">Novela</category>
+	<credits>
+    <director>Mauro Mendonça Filho</director>
+		</credits>
+</programme>
+...
+<programme start="20211004231500 -0300" stop="20211005005500 -0300" channel="GLOBO">
+    <title lang="pt">Tela Quente: Arranha-Céu: Coragem Sem Limite</title>
+    <desc lang="pt">Will trabalha avaliando a segurança de arranha-céus. Ele é acusado de colocar o edifício mais alto de Hong Kong em chamas e precisa encontrar os culpados.</desc>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+	<credits>
+    <director>Rawson Marshall Thurber</director>
+		</credits>
+</programme>
+...
+<programme start="20211005005500 -0300" stop="20211005014500 -0300" channel="GLOBO">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+	<credits>
+    <director>Jorge Sacramento</director>
+		</credits>
+</programme>
+...
+<programme start="20211005014500 -0300" stop="20211005022500 -0300" channel="GLOBO">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
+    <date>2021</date>
+    <category lang="pt">Talk Show</category>
+	<credits>
+    <director>Monica Almeida</director>
+		</credits>
+</programme>
+...
+<programme start="20211005022500 -0300" stop="20211005040000 -0300" channel="GLOBO">
+    <title lang="pt">Corujão: Toc: Transtornada Obsessiva Compulsiva</title>
+    <desc lang="pt">Kika K é uma atriz idolatrada por milhões de fãs. Mas, por trás das aparências, está em crise e precisa lidar com seu transtorno obsessivo compulsivo.</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+	<credits>
+    <director>Teodoro Poppovic</director>
+	<director>Paulinho Caruso</director>
+		</credits>
+</programme>
+...
+<programme start="20211005040000 -0300" stop="20211005060000 -0300" channel="GLOBO">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+	<credits>
+    <director>Ali Kamel</director>
+	<director>Sérgio Henrique Coelho</director>
+		</credits>
+</programme>
+...
+<programme start="20211005060000 -0300" stop="20211005083000 -0300" channel="GLOBO">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+</programme>
+...
+<programme start="20211005083000 -0300" stop="20211005093000 -0300" channel="GLOBO">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+	<credits>
+    <director>Chico Pinheiro</director>
+	<director>Ana Paula Araújo</director>
+		</credits>
+</programme>
+...
+<programme start="20211005093000 -0300" stop="20211005104500 -0300" channel="GLOBO">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+	<credits>
+    <director>Frederico Oliveira</director>
+	<director>Viviane De Marco</director>
+		</credits>
+</programme>
+...
+<programme start="20211005104500 -0300" stop="20211005120000 -0300" channel="GLOBO">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <date>2021</date>
+    <category lang="pt">Variedades</category>
+	<credits>
+    <director>Fabrício Mamberti</director>
+	<director>Mario Marcio Bandarra</director>
+		</credits>
+</programme>
+...
+<programme start="20211005120000 -0300" stop="20211005130000 -0300" channel="GLOBO">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+</programme>
+...
+<programme start="20211005130000 -0300" stop="20211005132500 -0300" channel="GLOBO">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.</desc>
+    <date>2021</date>
+    <category lang="pt">Esportivo</category>
+	<credits>
+    <director>André Boaventura</director>
+		</credits>
+</programme>
+...
+<programme start="20211005132500 -0300" stop="20211005150000 -0300" channel="GLOBO">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+	<credits>
+    <director>Cláudio Marques</director>
+		</credits>
+</programme>
+...
+<programme start="20211005150000 -0300" stop="20211005164000 -0300" channel="GLOBO">
+    <title lang="pt">Sessão da Tarde: Cartas Para Deus</title>
+	<desc lang="pt">Tyler Doherty encara uma batalha diária contra o câncer, com muita fé e coragem. O menino, de apenas oito anos, escreve suas orações em cartas para seu amigo Deus. Buscando um sentido para a vida.</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+	<credits>
+    <director>David Nixon</director>
+	<director>Patrick Doughtie</director>
+	
+		</credits>
+</programme>
+...
+<programme start="20211005164000 -0300" stop="20211005171000 -0300" channel="GLOBO">
+    <title lang="pt">Vale a Pena Ver de Novo: O Clone</title>
+    <date>2021</date>
+    <category lang="pt">Novela</category>
+	<credits>
+    <director>Jayme Monjardim</director>
+		</credits>
+</programme>
+...
+<programme start="20211005171000 -0300" stop="20211005175500 -0300" channel="GLOBO">
+    <title lang="pt">Vale a Pena Ver de Novo: Ti Ti Ti</title>
+	<desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.</desc>
+    <date>2010</date>
+    <category lang="pt">Novela</category>
+	<credits>
+    <director>Jorge Fernando</director>
+		</credits>
+</programme>
+...
+<programme start="20211005175500 -0300" stop="20211005182500 -0300" channel="GLOBO">
+    <title lang="pt">Malhação: Sonhos</title>
+	<desc lang="pt">Lobão ameaça Thawick e pergunta sobre Cobra. Cobra provoca Duca, e Dalva pede que o rapaz saia de sua casa.</desc>
+    <date>2021</date>
+    <category lang="pt">Novela</category>
+	<credits>
+    <director>Luiz Henrique Rios</director>
+	<director>José Alvarenga Jr.</director>
+		</credits>
+</programme>
+...
+<programme start="20211005182500 -0300" stop="20211005191000 -0300" channel="GLOBO">
+    <title lang="pt">Nos Tempos do Imperador</title>
+	<desc lang="pt">Justina convoca Pilar para socorrer Luísa. Tonico comemora com Christie ao saber que os ingleses não comprarão mais mercadorias brasileiras.</desc>
+    <date>2021</date>
+    <category lang="pt">Novela</category>
+	<credits>
+    <director>Vinicius Coimbra</director>
+		</credits>
+</programme>
+...
+<programme start="20211005191000 -0300" stop="20211005194000 -0300" channel="GLOBO">
+    <title lang="pt">RJ2</title>
+	<desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+	<credits>
+    <director>Vinicius Coimbra</director>
+		</credits>
+</programme>
+...
+<programme start="20211005194000 -0300" stop="20211005203000 -0300" channel="GLOBO">
+    <title lang="pt">Pega Pega</title>
+	<desc lang="pt">Luiza aceita a carona de Lourenço para ir ao cartório, sem saber que é observada por Eric.</desc>
+    <date>2017</date>
+    <category lang="pt">Novela</category>
+	<credits>
+    <director>Luiz Henrique Rios</director>
+		</credits>
+</programme>
+...
+<programme start="20211005203000 -0300" stop="20211005213000 -0300" channel="GLOBO">
+    <title lang="pt">Jornal Nacional</title>
+	<desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <date>2021</date>
+    <category lang="pt">Jornalismo</category>
+	<credits>
+    <director>William Bonner</director>
+		</credits>
+</programme>
+...
+<programme start="20211005213000 -0300" stop="20211005223500 -0300" channel="GLOBO">
+    <title lang="pt">Império</title>
+	<desc lang="pt">Maurílio assiste à discussão entre Merival e José Alfredo. Felipe foge e Xana cuida de Cláudio.</desc>
+    <date>2014</date>
+    <category lang="pt">Novela</category>
+	<credits>
+    <director>Rogério Gomes</director>
+		</credits>
+</programme>
+...
+<programme start="20211005223500 -0300" stop="20211006000500 -0300" channel="GLOBO">
+    <title lang="pt">The Masked Singer Brasil</title>
+    <date>2021</date>
+    <category lang="pt">Reality Show</category>
+	<credits>
+    <director>Marcelo Amiky</director>
+		</credits>
+</programme>
+...TESTE
+<programme start="20211006030500 +0000" stop="20211006034500 +0000" channel="GLOBO">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Uma história de amor e obsessão, embalada pelo clima de glamour, poder, desejo, armadilhas e ilusões.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006034500 +0000" stop="20211006042500 +0000" channel="GLOBO">
+    <title lang="pt">Profissão Repórter</title>
+    <desc lang="pt">Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006042500 +0000" stop="20211006051500 +0000" channel="GLOBO">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006051500 +0000" stop="20211006055000 +0000" channel="GLOBO">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006055000 +0000" stop="20211006070000 +0000" channel="GLOBO">
+    <title lang="pt">Corujão I - Roubando Carros</title>
+    <title lang="en">Stealing Cars</title>
+    <desc lang="pt">Depois de cometer uma série de crimes, incluindo roubo de carros, o adolescente rebelde e cheio de confiança Billy Wyatt vai parar em um campo de detenção juvenil. Ele rapidamente fica próximo de Nathan Stein, um preso doentio, e, por conta de seu carisma e inteligência, ganha também o respeito de muitos detentos. Mas ele entra em conflito com o diretor do acampamento, Montgomery de La Cruz, e o guarda-cabeça abusivo, Conrad Sean Lewis.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006070000 +0000" stop="20211006090000 +0000" channel="GLOBO">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006090000 +0000" stop="20211006113000 +0000" channel="GLOBO">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006113000 +0000" stop="20211006123000 +0000" channel="GLOBO">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006123000 +0000" stop="20211006134500 +0000" channel="GLOBO">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006134500 +0000" stop="20211006150000 +0000" channel="GLOBO">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006150000 +0000" stop="20211006160000 +0000" channel="GLOBO">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006160000 +0000" stop="20211006162500 +0000" channel="GLOBO">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006162500 +0000" stop="20211006180000 +0000" channel="GLOBO">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006180000 +0000" stop="20211006194000 +0000" channel="GLOBO">
+    <title lang="pt">Sessão da Tarde - Meninas Malvadas</title>
+    <title lang="en">Mean Girls</title>
+    <desc lang="pt">Cady Heron é uma garota que cresceu na África e sempre estudou em casa, nunca tendo ido a uma escola. Após retornar aos EUA com seus pais, ela se prepara para iniciar sua vida de estudante, se matriculando em uma escola pública. Logo, Cady percebe como a língua venenosa de suas novas colegas pode prejudicar sua vida e, para piorar ainda mais sua situação, Cady se apaixona pelo garoto errado.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006194000 +0000" stop="20211006201000 +0000" channel="GLOBO">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006201000 +0000" stop="20211006203500 +0000" channel="GLOBO">
+    <title lang="pt">Vale A Pena - Ti Ti Ti</title>
+    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho, em São Paulo, e invade as passarelas do glamoroso mundo fashion.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006203500 +0000" stop="20211006210500 +0000" channel="GLOBO">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006210500 +0000" stop="20211006214500 +0000" channel="GLOBO">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006214500 +0000" stop="20211006221500 +0000" channel="GLOBO">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006221500 +0000" stop="20211006230000 +0000" channel="GLOBO">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006230000 +0000" stop="20211006233500 +0000" channel="GLOBO">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211006233500 +0000" stop="20211007002000 +0000" channel="GLOBO">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007002000 +0000" stop="20211007023000 +0000" channel="GLOBO">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Fluminense x Fortaleza.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007023000 +0000" stop="20211007024500 +0000" channel="GLOBO">
+    <title lang="pt">Segue o Jogo</title>
+    <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida, com influência da internet, explorando memes, grandes imagens da rodada e até figurinhas das redes sociais. As análises de jogadas, lances polêmicos e desempenho das equipes ficam a cargo do comentarista Paulo Nunes.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007024500 +0000" stop="20211007033500 +0000" channel="GLOBO">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007033500 +0000" stop="20211007041500 +0000" channel="GLOBO">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007041500 +0000" stop="20211007054500 +0000" channel="GLOBO">
+    <title lang="pt">Corujão I - Sou Espião</title>
+    <title lang="en">I Spy</title>
+    <desc lang="pt">Assim que o protótipo do avião mais moderno do mundo é roubado, o governo americano envia o espião Alex Scott para recuperá-lo. Para realizar sua missão ele terá ainda a companhia de um arrogante pugilista que foi transformado de última hora em espião. Juntos, os dois terão que recuperar o protótipo e ainda combater Arnold Gundars, um violento traficante de armas.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007054500 +0000" stop="20211007070000 +0000" channel="GLOBO">
+    <title lang="pt">Corujão II - A Comédia Divina</title>
+    <title lang="en">A Comédia Divina</title>
+    <desc lang="pt">O Diabo anda em baixa e está preocupado com isso. Ele decide, então, abrir sua própria igreja, onde tudo o que é proibido passa a ser permitido. O ser humano é estimulado a liberar seus instintos primais e realizar suas fantasias reprimidas. Usando a televisão para propagar a chegada da nova religião, Satanás instala a desordem e o mundo vira um caos.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007070000 +0000" stop="20211007090000 +0000" channel="GLOBO">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007090000 +0000" stop="20211007113000 +0000" channel="GLOBO">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007113000 +0000" stop="20211007123000 +0000" channel="GLOBO">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007123000 +0000" stop="20211007134500 +0000" channel="GLOBO">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007134500 +0000" stop="20211007150000 +0000" channel="GLOBO">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007150000 +0000" stop="20211007160000 +0000" channel="GLOBO">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007160000 +0000" stop="20211007162500 +0000" channel="GLOBO">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007162500 +0000" stop="20211007180000 +0000" channel="GLOBO">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007180000 +0000" stop="20211007193000 +0000" channel="GLOBO">
+    <title lang="pt">Sessão da Tarde - Megan Leavey</title>
+    <title lang="en">Megan Leavey</title>
+    <desc lang="pt">A agente da marinha americana Megan Leavey é uma especialista em treinamento de cães para detectar bombas. Ela é enviada ao Iraque, onde forma uma boa parceria com o cão Rex. Mas Megan é ferida e afastada do campo de batalha. Enquanto isso, o cão permanece em atividade, e ela espera a aposentadoria do animal para poder adotá-lo. Antes desse prazo, no entanto, a ex-agente descobre que o cachorro sofrerá uma eutanásia e luta para reverter essa decisão.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007193000 +0000" stop="20211007195500 +0000" channel="GLOBO">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007195500 +0000" stop="20211007203500 +0000" channel="GLOBO">
+    <title lang="pt">Vale A Pena - Ti Ti Ti</title>
+    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho, em São Paulo, e invade as passarelas do glamoroso mundo fashion.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007203500 +0000" stop="20211007210000 +0000" channel="GLOBO">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007210000 +0000" stop="20211007214500 +0000" channel="GLOBO">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007214500 +0000" stop="20211007220500 +0000" channel="GLOBO">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007220500 +0000" stop="20211007224500 +0000" channel="GLOBO">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007224500 +0000" stop="20211007232000 +0000" channel="GLOBO">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211007232000 +0000" stop="20211008013000 +0000" channel="GLOBO">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil e mais.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008013000 +0000" stop="20211008021500 +0000" channel="GLOBO">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008021500 +0000" stop="20211008030000 +0000" channel="GLOBO">
+    <title lang="pt">Sob Pressão</title>
+    <desc lang="pt">A quarta temporada se passa no grandioso Hospital Edith de Magalhães. É nesse lugar que os personagens enfrentam o cotidiano caótico de uma emergência pública, mas com a pressão da rotina ainda maior, já que o hospital, localizado agora no centro da cidade, é referência de atendimento.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008030000 +0000" stop="20211008035500 +0000" channel="GLOBO">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Uma história de amor e obsessão, embalada pelo clima de glamour, poder, desejo, armadilhas e ilusões.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008035500 +0000" stop="20211008044500 +0000" channel="GLOBO">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008044500 +0000" stop="20211008052500 +0000" channel="GLOBO">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008052500 +0000" stop="20211008070000 +0000" channel="GLOBO">
+    <title lang="pt">Corujão I - O Justiceiro Em Zona De Guerra</title>
+    <title lang="en">The Punisher: The War Zone</title>
+    <desc lang="pt">O justiceiro Frank jurou eliminar todos os mafiosos da cidade. Na sua cruzada por justiça, ele acaba destruindo o rosto de Billy Russoti, um grande chefão do crime organizado, que quer se vingar a qualquer preço.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008070000 +0000" stop="20211008090000 +0000" channel="GLOBO">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008090000 +0000" stop="20211008113000 +0000" channel="GLOBO">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008113000 +0000" stop="20211008123000 +0000" channel="GLOBO">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008123000 +0000" stop="20211008134500 +0000" channel="GLOBO">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008134500 +0000" stop="20211008150000 +0000" channel="GLOBO">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008150000 +0000" stop="20211008160000 +0000" channel="GLOBO">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008160000 +0000" stop="20211008162500 +0000" channel="GLOBO">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008162500 +0000" stop="20211008180000 +0000" channel="GLOBO">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008180000 +0000" stop="20211008194000 +0000" channel="GLOBO">
+    <title lang="pt">Sessão da Tarde - Fora Do Rumo</title>
+    <title lang="en">Skiptrace</title>
+    <desc lang="pt">Bennie Chan é um detetive de Hong Kong que, inconformado com a morte de seu parceiro, faz de tudo para encontrar o responsável pelo crime. As coisas se complicam quando a jovem que ele criou como filha acaba sequestrada pelos criminosos. Para recuperá-la e desmascarar a gangue, Chan aceita se juntar com um atrapalhado e inescrupuloso apostador norte-americano, Connor Watts.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008194000 +0000" stop="20211008201000 +0000" channel="GLOBO">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008201000 +0000" stop="20211008205500 +0000" channel="GLOBO">
+    <title lang="pt">Vale A Pena - Ti Ti Ti</title>
+    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho, em São Paulo, e invade as passarelas do glamoroso mundo fashion.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008205500 +0000" stop="20211008212500 +0000" channel="GLOBO">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008212500 +0000" stop="20211008221000 +0000" channel="GLOBO">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008221000 +0000" stop="20211008224000 +0000" channel="GLOBO">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008224000 +0000" stop="20211008233000 +0000" channel="GLOBO">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211008233000 +0000" stop="20211009003000 +0000" channel="GLOBO">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211009003000 +0000" stop="20211009014000 +0000" channel="GLOBO">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211009014000 +0000" stop="20211009023000 +0000" channel="GLOBO">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Glória Maria e Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211009023000 +0000" stop="20211009030000 +0000" channel="GLOBO">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Uma história de amor e obsessão, embalada pelo clima de glamour, poder, desejo, armadilhas e ilusões.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211009030000 +0000" stop="20211009035000 +0000" channel="GLOBO">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211009035000 +0000" stop="20211009043000 +0000" channel="GLOBO">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  ...
+  <programme start="20211009043000 +0000" stop="20211009060000 +0000" channel="GLOBO">
+    <title lang="pt">Corujão I - Morto Não Fala</title>
+    <title lang="en">Morto Não Fala</title>
+    <desc lang="pt">Plantonista de um necrotério, Stênio possui um dom paranormal de se comunicar com os mortos. Trabalhando a noite, ele já está acostumado a ouvir relatos do além. Porém, quando essas conversas revelam segredos sobre sua própria vida, o homem ativa uma maldição perigosa para si e todos a sua volta.(n)</desc>
+  </programme>
+...TESTE
+<programme start="20211005083000 -0300" stop="20211005090000 -0300" channel="NICK">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+</programme>
+...
+<programme start="20211005090000 -0300" stop="20211005093000 -0300" channel="NICK">
+    <title lang="pt">The Loud House</title>
+</programme>
+...
+<programme start="20211005093000 -0300" stop="20211005100000 -0300" channel="NICK">
+    <title lang="pt">Os Casagrandes</title>
+</programme>
+...
+<programme start="20211005100000 -0300" stop="20211005103000 -0300" channel="NICK">
+    <title lang="pt">Game Shakers</title>
+</programme>
+...
+<programme start="20211005103000 -0300" stop="20211005110000 -0300" channel="NICK">
+    <title lang="pt">Henry Danger</title>
+</programme>
+...
+<programme start="20211005110000 -0300" stop="20211005120000 -0300" channel="NICK">
+    <title lang="pt">Club 57</title>
+</programme>
+...
+<programme start="20211005120000 -0300" stop="20211005123000 -0300" channel="NICK">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+</programme>
+...
+<programme start="20211005123000 -0300" stop="20211005130000 -0300" channel="NICK">
+    <title lang="pt">Sam & Cat</title>
+</programme>
+...
+<programme start="20211005130000 -0300" stop="20211005133000 -0300" channel="NICK">
+    <title lang="pt">iCarly</title>
+</programme>
+...
+<programme start="20211005133000 -0300" stop="20211005140000 -0300" channel="NICK">
+    <title lang="pt">Dorg Van Dango</title>
+</programme>
+...
+<programme start="20211005140000 -0300" stop="20211005143000 -0300" channel="NICK">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+</programme>
+...
+<programme start="20211005143000 -0300" stop="20211005150000 -0300" channel="NICK">
+    <title lang="pt">As Aventuras de Kid Danger</title>
+</programme>
+...
+<programme start="20211005150000 -0300" stop="20211005153000 -0300" channel="NICK">
+    <title lang="pt">The Loud House</title>
+</programme>
+...
+<programme start="20211005153000 -0300" stop="20211005160000 -0300" channel="NICK">
+    <title lang="pt">É O Pônei</title>
+</programme>
+...
+<programme start="20211005160000 -0300" stop="20211005163000 -0300" channel="NICK">
+    <title lang="pt">The Loud House</title>
+</programme>
+...
+<programme start="20211005163000 -0300" stop="20211005170000 -0300" channel="NICK">
+    <title lang="pt">Os Casagrandes</title>
+</programme>
+...
+<programme start="20211005170000 -0300" stop="20211005173000 -0300" channel="NICK">
+    <title lang="pt">Os Casagrandes</title>
+</programme>
+...
+<programme start="20211005173000 -0300" stop="20211005180000 -0300" channel="NICK">
+    <title lang="pt">Os Under Undergrounds</title>
+</programme>
+...
+<programme start="20211005180000 -0300" stop="20211005183000 -0300" channel="NICK">
+    <title lang="pt">Os Under Undergrounds</title>
+</programme>
+...
+<programme start="20211005183000 -0300" stop="20211005190000 -0300" channel="NICK">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+</programme>
+...
+<programme start="20211005190000 -0300" stop="20211005193000 -0300" channel="NICK">
+    <title lang="pt">The Loud House</title>
+</programme>
+...
+<programme start="20211005193000 -0300" stop="20211005200000 -0300" channel="NICK">
+    <title lang="pt">Henry Danger</title>
+</programme>
+...
+<programme start="20211005200000 -0300" stop="20211005203000 -0300" channel="NICK">
+    <title lang="pt">Força Danger</title>
+</programme>
+...
+<programme start="20211005203000 -0300" stop="20211005210000 -0300" channel="NICK">
+    <title lang="pt">Os Thundermans</title>
+</programme>
+...
+<programme start="20211005210000 -0300" stop="20211005213000 -0300" channel="NICK">
+    <title lang="pt">Sam & Cat</title>
+</programme>
+...
+<programme start="20211005213000 -0300" stop="20211005223000 -0300" channel="NICK">
+    <title lang="pt">Club 57</title>
+</programme>
+...
+<programme start="20211005223000 -0300" stop="20211005230000 -0300" channel="NICK">
+    <title lang="pt">Side Hustle: Uma Terefa Complicada</title>
+</programme>
+...
+<programme start="20211005230000 -0300" stop="20211005233000 -0300" channel="NICK">
+    <title lang="pt">iCarly</title>
+</programme>
+...
+<programme start="20211005110000 -0300" stop="20211005113000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005113000 -0300" stop="20211005120000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005120000 -0300" stop="20211005123000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">A Boa Vizinhança</title>
+</programme>
+...
+<programme start="20211005123000 -0300" stop="20211005125500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+</programme>
+...
+<programme start="20211005125500 -0300" stop="20211005132000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+</programme>
+...
+<programme start="20211005132000 -0300" stop="20211005142000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Comédia Futebol Clube</title>
+</programme>
+...
+<programme start="20211005142000 -0300" stop="20211005144500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005144500 -0300" stop="20211005151000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005151000 -0300" stop="20211005153500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005153500 -0300" stop="20211005160000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005160000 -0300" stop="20211005163000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+</programme>
+...
+<programme start="20211005163000 -0300" stop="20211005165500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+</programme>
+...
+<programme start="20211005165500 -0300" stop="20211005172000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+</programme>
+...
+<programme start="20211005172000 -0300" stop="20211005174500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+</programme>
+...
+<programme start="20211005174500 -0300" stop="20211005181000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+</programme>
+...
+<programme start="20211005181000 -0300" stop="20211005183500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005183500 -0300" stop="20211005190000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005190000 -0300" stop="20211005192500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005192500 -0300" stop="20211005195500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005195500 -0300" stop="20211005202000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+</programme>
+...
+<programme start="20211005202000 -0300" stop="20211005204500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+</programme>
+...
+<programme start="20211005204500 -0300" stop="20211005211000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">A Boa Vizinhança</title>
+</programme>
+...
+<programme start="20211005211000 -0300" stop="20211005213500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005213500 -0300" stop="20211005220000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+</programme>
+...
+<programme start="20211005220000 -0300" stop="20211005230000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">A Culpa é da Carlota</title>
+</programme>
+...
+<programme start="20211005230000 -0300" stop="20211006000000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">A Culpa é do Cabral</title>
+</programme>
+...
+<programme start="20211005105700 -0300" stop="20211005111800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Young Sheldon</title>
+</programme>
+...
+<programme start="20211005111800 -0300" stop="20211005113700 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Young Sheldon</title>
+</programme>
+...
+<programme start="20211005113700 -0300" stop="20211005115900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005115900 -0300" stop="20211005122100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005122100 -0300" stop="20211005124000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005124000 -0300" stop="20211005130100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005130100 -0300" stop="20211005132400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005132400 -0300" stop="20211005134300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005134300 -0300" stop="20211005143100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Supernatural</title>
+</programme>
+...
+<programme start="20211005143100 -0300" stop="20211005145600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Dragon Ball Z Kai</title>
+</programme>
+...
+<programme start="20211005145600 -0300" stop="20211005152100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Dragon Ball Z Kai</title>
+</programme>
+...
+<programme start="20211005152100 -0300" stop="20211005174700 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">It: A Coisa</title>
+</programme>
+...
+<programme start="20211005174700 -0300" stop="20211005202000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Jogador Nº1</title>
+</programme>
+...
+<programme start="20211005202000 -0300" stop="20211005203900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005203900 -0300" stop="20211005210300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005210300 -0300" stop="20211005212500 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005212500 -0300" stop="20211005214800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005214800 -0300" stop="20211005220700 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005220700 -0300" stop="20211005223000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+</programme>
+...
+<programme start="20211005223000 -0300" stop="20211006001100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Minions</title>
+</programme>
+...
+
+
+
+
+
+
+
+
+</tv>
