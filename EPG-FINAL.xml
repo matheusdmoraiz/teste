@@ -34,57 +34,57 @@
 <display-name>History Channel 2</display-name>
 </channel>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="GloboNews">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="GloboNews">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="BandNews">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="BandNews">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="Nickelodeon">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="Nickelodeon">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="CartoonNetwork">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="CartoonNetwork">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="StarChannel">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="StarChannel">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="ComedyCentral">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="ComedyCentral">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="WarnerChannel">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="WarnerChannel">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="DiscoveryChannel">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="DiscoveryChannel">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="AnimalPlanet">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="AnimalPlanet">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="History">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="History">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="History2">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="History2">
 <title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
