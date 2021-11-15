@@ -34,415 +34,59 @@
 <display-name>History Channel 2</display-name>
 </channel>
 ...
-<programme start="20211108060000 -0300" stop="20211108090000 -0300" channel="GloboNews">
-<title lang="pt-BR" >GloboNews em Ponto</title>
-<desc lang="pt-BR">Acompanhe as últimas novidades políticas e econômicas com análises aprofundadas.</desc>
-</programme>
-...
-<programme start="20211108090000 -0300" stop="20211108125500 -0300" channel="GloboNews">
-<title lang="pt-BR" >Conexão Globonews</title>
-<desc lang="pt-BR">O telejornal traz a notícia de um jeito único, com o compromisso de analisar o que foi assunto.</desc>
-</programme>
-...
-<programme start="20211108125500 -0300" stop="20211108160000 -0300" channel="GloboNews">
-<title lang="pt-BR" >Estúdio I</title>
-<desc lang="pt-BR">Maria Beltrão traz as principais manchetes do dia no mundo de uma maneira inteligente e informal. Ela e seus convidados discutem diversos temas. Cantores e bandas também marcam sua presença, divulgando suas músicas e seus novos trabalhos.</desc>
-</programme>
-...
-<programme start="20211108160000 -0300" stop="20211108180000 -0300" channel="GloboNews">
-<title lang="pt-BR" >Jornal GloboNews - Edição das 16 Horas</title>
-<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo.</desc>
-</programme>
-...
-<programme start="20211108180000 -0300" stop="20211108200000 -0300" channel="GloboNews">
-<title lang="pt-BR" >Jornal GloboNews - Edição das 18 Horas</title>
-<desc lang="pt-BR">Acompanhe a cobertura completa de tudo que foi destaque ao longo do dia no Brasil e no mundo.</desc>
-</programme>
-...
-<programme start="20211108200000 -0300" stop="20211108220000 -0300" channel="GloboNews">
-<title lang="pt-BR" >GloboNews em Pauta</title>
-<desc lang="pt-BR">A análise dos cinco assuntos mais importantes do dia feita por experientes correspondentes.</desc>
-</programme>
-...
-<programme start="20211108220000 -0300" stop="20211108233000 -0300" channel="GloboNews">
-<title lang="pt-BR" >Jornal das Dez</title>
-<desc lang="pt-BR">Entrevistas, debates, correspondentes internacionais e comentaristas analisam os principais fatos do Brasil e do mundo.</desc>
-</programme>
-...
-<programme start="20211108233000 -0300" stop="20211109000000 -0300" channel="GloboNews">
-<title lang="pt-BR" >GloboNews Miriam Leitão</title>
-<desc lang="pt-BR">Miriam Leitão recebe os principais nomes da economia brasileira para debater decisões do governo e do mercado que afetam o país e a vida dos cidadãos.</desc>
-</programme>
-...
-<programme start="20211109000000 -0300" stop="20211109020000 -0300" channel="GloboNews">
-<title lang="pt-BR" >Jornal GloboNews - Edição da Meia-Noite</title>
-<desc lang="pt-BR">Fique informado sobre os destaques do dia e o que será manchete amanhã, incluindo os gols da rodada.</desc>
-</programme>
-...
-<programme start="20211109020000 -0300" stop="20211109033000 -0300" channel="GloboNews">
-<title lang="pt-BR" >Jornal GloboNews - Edição das 18 Horas</title>
-<desc lang="pt-BR">Acompanhe a cobertura completa de tudo que foi destaque ao longo do dia no Brasil e no mundo.</desc>
-</programme>
-...
-<programme start="20211109033000 -0300" stop="20211109050000 -0300" channel="GloboNews">
-<title lang="pt-BR" >GloboNews em Pauta</title>
-<desc lang="pt-BR">A análise dos cinco assuntos mais importantes do dia feita por experientes correspondentes.</desc>
-</programme>
-...
-<programme start="20211109050000 -0300" stop="20211109060000 -0300" channel="GloboNews">
-<title lang="pt-BR" >Jornal das Dez</title>
-<desc lang="pt-BR">Entrevistas, debates, correspondentes internacionais e comentaristas analisam os principais fatos do Brasil e do mundo.</desc>
-</programme>
-...
-<programme start="20211108060000 -0300" stop="20211108073000 -0300" channel="BandNews">
-<title lang="pt-BR" >Jornal BandNews</title>
-<desc lang="pt-BR">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
-</programme>
-...
-<programme start="20211108073000 -0300" stop="20211108120000 -0300" channel="BandNews">
-<title lang="pt-BR" >Manhã BandNews</title>
-<desc lang="pt-BR">Acompanhe a atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
-</programme>
-...
-<programme start="20211108120000 -0300" stop="20211108140000 -0300" channel="BandNews">
-<title lang="pt-BR" >BandNews no Meio do Dia</title>
-<desc lang="pt-BR">O que já foi notícia, as informações do momento e o que ainda será destaque ao longo do dia. Apresentação dos fatos mais importantes, com participação de entrevistados e comentaristas.</desc>
-</programme>
-...
-<programme start="20211108140000 -0300" stop="20211108180000 -0300" channel="BandNews">
-<title lang="pt-BR" >Tarde BandNews</title>
-<desc lang="pt-BR">As principais notícias do Brasil e do mundo, você encontra no Tarde BandNews. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
-</programme>
-...
-<programme start="20211108180000 -0300" stop="20211108200000 -0300" channel="BandNews">
-<title lang="pt-BR" >Jornal BandNews</title>
-<desc lang="pt-BR">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
-</programme>
-...
-<programme start="20211108200000 -0300" stop="20211108203000 -0300" channel="BandNews">
-<title lang="pt-BR" >Expresso BandNews</title>
-<desc lang="pt-BR">Telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico.</desc>
-</programme>
-...
-<programme start="20211108203000 -0300" stop="20211108213000 -0300" channel="BandNews">
-<title lang="pt-BR" >Jornal da Band</title>
-<desc lang="pt-BR">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
-</programme>
-...
-<programme start="20211108213000 -0300" stop="20211108220000 -0300" channel="BandNews">
-<title lang="pt-BR" >Jornal BandNews</title>
-<desc lang="pt-BR">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
-</programme>
-...
-<programme start="20211108220000 -0300" stop="20211108223000 -0300" channel="BandNews">
-<title lang="pt-BR" >Expresso BandNews</title>
-<desc lang="pt-BR">Telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico.</desc>
-</programme>
-...
-<programme start="20211108223000 -0300" stop="20211108230000 -0300" channel="BandNews">
-<title lang="pt-BR" >Jornal BandNews</title>
-<desc lang="pt-BR">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
-</programme>
-...
-<programme start="20211108230000 -0300" stop="20211108233000 -0300" channel="BandNews">
-<title lang="pt-BR" >Canal Livre</title>
-<desc lang="pt-BR">Acompanhe entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão.</desc>
-</programme>
-...
-<programme start="20211108233000 -0300" stop="20211109000000 -0300" channel="BandNews">
-<title lang="pt-BR" >Jornal BandNews</title>
-<desc lang="pt-BR">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
-</programme>
-...
-<programme start="20211109000000 -0300" stop="20211109003000 -0300" channel="BandNews">
-<title lang="pt-BR" >Madrugada BandNews</title>
-<desc lang="pt-BR">As notícias não param durante a madrugada e o BandNews também não. Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
-</programme>
-...
-<programme start="20211109003000 -0300" stop="20211109010000 -0300" channel="BandNews">
-<title lang="pt-BR" >Canal Livre</title>
-<desc lang="pt-BR">Acompanhe entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão.</desc>
-</programme>
-...
-<programme start="20211109010000 -0300" stop="20211109020000 -0300" channel="BandNews">
-<title lang="pt-BR" >Madrugada BandNews</title>
-<desc lang="pt-BR">As notícias não param durante a madrugada e o BandNews também não. Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
-</programme>
-...
-<programme start="20211109020000 -0300" stop="20211109024500 -0300" channel="BandNews">
-<title lang="pt-BR" >Jornal da Noite</title>
-<desc lang="pt-BR">Acompanhe diariamente notícias do país e do mundo.</desc>
-</programme>
-...
-<programme start="20211109024500 -0300" stop="20211109030000 -0300" channel="BandNews">
-<title lang="pt-BR" >Madrugada BandNews</title>
-<desc lang="pt-BR">As notícias não param durante a madrugada e o BandNews também não. Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
-</programme>
-...
-<programme start="20211109030000 -0300" stop="20211109034500 -0300" channel="BandNews">
-<title lang="pt-BR" >Jornal Terraviva</title>
-<desc lang="pt-BR">Um telejornal dedicado ao agronegócio brasileiro, apresentando os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões que acontecem no país.</desc>
-</programme>
-...
-<programme start="20211109034500 -0300" stop="20211109060000 -0300" channel="BandNews">
-<title lang="pt-BR" >Madrugada BandNews</title>
-<desc lang="pt-BR">As notícias não param durante a madrugada e o BandNews também não. Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
-</programme>
-...
-<programme start="20211108051100 -0300" stop="20211108070000 -0300" channel="StarChannel">
-<title lang="pt-BR" >Tiras, Só que Não</title>
-<desc lang="pt-BR">Os amigos Ryan e Justin decidem ir a uma festa fantasiados de policiais. Só que, em pouco tempo, toda a vizinhança acredita que eles realmente são tiras, e os dois viram a sensação do bairro. Porém, quando encontram policiais de verdade, os dois são obrigados a enfrentar o crime, mafiosos e detetives corruptos.</desc>
-</programme>
-...
-<programme start="20211108070000 -0300" stop="20211108074700 -0300" channel="StarChannel">
-<title lang="pt-BR" >Arquivo X</title>
-<desc lang="pt-BR">Sem consciência de sua identidade e do seu passado, Doggett acorda no meio de uma violenta e empoeirada cidade mexicana.</desc>
-</programme>
-...
-<programme start="20211108074700 -0300" stop="20211108075300 -0300" channel="StarChannel">
-<title lang="pt-BR" >Zoom In</title>
-<desc lang="pt-BR">Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra em apenas sete minutos.</desc>
-</programme>
-...
-<programme start="20211108075300 -0300" stop="20211108100000 -0300" channel="StarChannel">
-<title lang="pt-BR" >Zoom In</title>
-<desc lang="pt-BR">Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra em apenas sete minutos.</desc>
-</programme>
-...
-<programme start="20211108100000 -0300" stop="20211108114900 -0300" channel="StarChannel">
-<title lang="pt-BR" >Elektra</title>
-<desc lang="pt-BR">A assassina de aluguel Elektra trabalha para uma organização misteriosa. Ela mata quem quer que seja, sem fazer perguntas. Mas quando ela é enviada para assassinar Mark Miller e sua filha Abby, durante um feriado, Elektra muda de ideia, e decide protegê-los em vez de matá-los. Mas é claro que a organização não pretende deixar que isso aconteça.</desc>
-</programme>
-...
-<programme start="20211108114900 -0300" stop="20211108121500 -0300" channel="StarChannel">
-<title lang="pt-BR" >Como Eu Conheci Sua Mãe</title>
-<desc lang="pt-BR">Durante um flashback, a quadrilha se pergunta como o triângulo amoroso de Ted, Robin e Barney vai se sair; Barney aceita desafios de Robin e Lily.</desc>
-</programme>
-...
-<programme start="20211108121500 -0300" stop="20211108141900 -0300" channel="StarChannel">
-<title lang="pt-BR" >Maze Runner - Correr ou Morrer</title>
-<desc lang="pt-BR">Em um futuro, meio apocalíptico, meio utópico, o jovem Thomas é escolhido para enfrentar o sistema. Ao acordar dentro de um escuro elevador em movimento, ele não consegue se lembrar nem de seu nome. Na comunidade isolada em que foi abandonado, ele conhece outros garotos que passaram pelo mesmo. Para conseguir escapar, Thomas precisa descobrir os sombrios segredos guardados em sua mente e correr muito.</desc>
-</programme>
-...
-<programme start="20211108141900 -0300" stop="20211108162900 -0300" channel="StarChannel">
-<title lang="pt-BR" >Inferno</title>
-<desc lang="pt-BR">O simbologista Robert Langdon e uma médica viajam pela Europa para deter o plano de um lunático de disseminar um vírus mortal.</desc>
-</programme>
-...
-<programme start="20211108162900 -0300" stop="20211108183700 -0300" channel="StarChannel">
-<title lang="pt-BR" >Evereste</title>
-<desc lang="pt-BR">Em maio de 1996, escaladores de duas expedições diferentes começam a subir em direção ao cume do Monte Everest, mas logo se veem lutando por suas vidas em uma nevasca mortal.</desc>
-</programme>
-...
-<programme start="20211108183700 -0300" stop="20211108203000 -0300" channel="StarChannel">
-<title lang="pt-BR" >Gente Grande</title>
-<desc lang="pt-BR">A morte do treinador de basquete da infância de velhos amigos os reúne no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.</desc>
-</programme>
-...
-<programme start="20211108203000 -0300" stop="20211108223000 -0300" channel="StarChannel">
-<title lang="pt-BR" >Deadpool</title>
-<desc lang="pt-BR">Wade Wilson é um ex-agente especial que passou a trabalhar como mercenário. Seu mundo é destruído quando um cientista maligno o tortura e o desfigura completamente. O experimento brutal transforma Wade em Deadpool, que ganha poderes especiais de cura e uma força aprimorada. Com a ajuda de aliados poderosos e um senso de humor mais desbocado e cínico do que nunca, o irreverente anti-herói usa habilidades e métodos violentos para se vingar do homem que quase acabou com a sua vida.</desc>
-</programme>
-...
-<programme start="20211108223000 -0300" stop="20211108225700 -0300" channel="StarChannel">
-<title lang="pt-BR" >Os Simpsons</title>
-<desc lang="pt-BR">Na tentativa de pegar um ladrão, perito em entrar clandestinamente nas moradias por meios não convencionais, Homer decide liderar um grupo de vigilantes, para tentar pegar o gatuno.</desc>
-</programme>
-...
-<programme start="20211108225700 -0300" stop="20211108232400 -0300" channel="StarChannel">
-<title lang="pt-BR" >Os Simpsons</title>
-<desc lang="pt-BR">Lisa embarca em uma carreira como babá, onde o seu mais recente desafio é tomar conta de seus irmãos, Bart e Maggie, enquanto Homer e Marge vão passear no calçadão Squidport.</desc>
-</programme>
-...
-<programme start="20211108232400 -0300" stop="20211108234900 -0300" channel="StarChannel">
-<title lang="pt-BR" >Os Simpsons</title>
-<desc lang="pt-BR">Um produtor e diretor famoso apoia a causa de Lisa quando ela começa uma rebelião na escola primária de Springfield.</desc>
-</programme>
-...
-<programme start="20211108234900 -0300" stop="20211109001600 -0300" channel="StarChannel">
-<title lang="pt-BR" >Os Simpsons</title>
-<desc lang="pt-BR">Homer continua a molhar a cama e sua família tenta se infiltrar em seus sonhos para descobrir a fonte do problema.</desc>
-</programme>
-...
-<programme start="20211109001600 -0300" stop="20211109021700 -0300" channel="StarChannel">
-<title lang="pt-BR" >Esposa de Mentirinha</title>
-<desc lang="pt-BR">Infeliz em sua tentativa de casamento, Danny passa a vivenciar relacionamentos sem compromisso para driblar a carência. Assim, ele toca sua vida como cirurgião plástico bem sucedido, tendo sua melhor amiga Katherine, mãe solteira de um casal, como fiel escudeira. Quando conhece a jovem Palmer e a paixão toma conta de ambos, ele inventa, para tentar conquistá-la, que é marido de Katherine, pai das crianças e que vai se separar. Assim começa uma verdadeira aventura amorosa recheada de confusões.</desc>
-</programme>
-...
-<programme start="20211109021700 -0300" stop="20211109024100 -0300" channel="StarChannel">
-<title lang="pt-BR" >Como Eu Conheci Sua Mãe</title>
-<desc lang="pt-BR">Durante um flashback, a quadrilha se pergunta como o triângulo amoroso de Ted, Robin e Barney vai se sair; Barney aceita desafios de Robin e Lily.</desc>
-</programme>
-...
-<programme start="20211109024100 -0300" stop="20211109030200 -0300" channel="StarChannel">
-<title lang="pt-BR" >Modern Family</title>
-<desc lang="pt-BR">O marido de Dede, Jerry, chega na cidade para deixar os seus bens à família; Mitch e Claire precisam lidar com Dede; Jay e Gloria sentem pena de Jerry e o convidam para ficar com eles enquanto a visita está na cidade.</desc>
-</programme>
-...
-<programme start="20211109030200 -0300" stop="20211109032700 -0300" channel="StarChannel">
-<title lang="pt-BR" >Modern Family</title>
-<desc lang="pt-BR">Hayley quer dar à família um presente de Natal que eles jamais esquecerão; Claire está brava com Phil por ele ter emprestado de novo a árvore de Natal da família; Jay, Gloria e Joe têm que lidar com visitantes indesejados durante as férias.</desc>
-</programme>
-...
-<programme start="20211109032700 -0300" stop="20211109052500 -0300" channel="StarChannel">
-<title lang="pt-BR" >Atômica</title>
-<desc lang="pt-BR">Lorraine Broughton, uma espiã do MI6, é enviada para Berlim durante a Guerra Fria para investigar o assassinato de um oficial e recuperar uma lista perdida de agentes duplos. Ao lado de David Percival, chefe da localidade, a assassina usa todas as suas habilidades nesse confronto de espiões.</desc>
-</programme>
-...
-<programme start="20211109052500 -0300" stop="20211109070000 -0300" channel="StarChannel">
-<title lang="pt-BR" >Anjos da Noite - Guerras de Sangue</title>
-<desc lang="pt-BR">Com a ajuda de seus aliados, a vampira híbrida Selene tenta por fim à guerra eterna entre vampiros e Lycans, mesmo que isso signifique o sacrifício total.</desc>
-</programme>
-...
-<programme start="20211108053500 -0300" stop="20211108060500 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Borges</title>
-<desc lang="pt-BR">Em meio a produção de um esquete de humor praticamente pornô, um fiscal da Prefeitura aparece. Agora eles tem que enrolá-lo, fingir que ainda são uma importadora e, de quebra, dirigir o pior ator do mundo.</desc>
-</programme>
-...
-<programme start="20211108060500 -0300" stop="20211108070400 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >A Culpa É do Cabral - Na Estrada</title>
-<desc lang="pt-BR">Rafael Portugal leva o elenco para saltar de asa-delta e depois curtir o calçadão de Campo Grande e provar a famosa crepioca.</desc>
-</programme>
-...
-<programme start="20211108070400 -0300" stop="20211108073300 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Ana</title>
-<desc lang="pt-BR">Ana recebe treinamento de Choque para se tornar uma lésbica experiente. Ela se reencontra com Chique e começam a sair. Pela primeira vez, atreve-se a ter namorado e namorada ao mesmo tempo. No final do dia, é Cheque que a surpreende.</desc>
-</programme>
-...
-<programme start="20211108073300 -0300" stop="20211108080000 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Schitt's Creek</title>
-<desc lang="pt-BR">Moira tenta embelezar a cidade; David usa mal o cartão de crédito da companhia; Alexis e Mutt questionam sua relação após um erro de higiene pessoal.</desc>
-</programme>
-...
-<programme start="20211108080000 -0300" stop="20211108080900 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >A Culpa Não É Nossa - O Melhor do Cabral</title>
-<desc lang="pt-BR">Cambota relembra alguns dos convidados especiais mais emblemáticos do "A Culpa é do Cabral".</desc>
-</programme>
-...
-<programme start="20211108080900 -0300" stop="20211108091200 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >A Culpa É do Cabral</title>
-<desc lang="pt-BR">Caio Castro é o convidado do dia, ele conversa com os meninos e participa de vários jogos.</desc>
-</programme>
-...
-<programme start="20211108091200 -0300" stop="20211108102900 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >The Office</title>
-<desc lang="pt-BR">Comédia que gira em torno do cotidiano de um escritório. Esta sátira descreve a vida dos funcionários da fábrica de papel "Dunder Miffin", situada em Scranton, na Pensilvânia.</desc>
-</programme>
-...
-<programme start="20211108102900 -0300" stop="20211108105700 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Comedy Central Stand-Up</title>
-<desc lang="pt-BR">Assista ao show de Maurício Meirelles no palco do Comedy Central Stand Up.</desc>
-</programme>
-...
-<programme start="20211108105700 -0300" stop="20211108115100 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Um Maluco no Pedaço</title>
-<desc lang="pt-BR">A série conta a história de Will (Will Smith), um jovem de origem humilde que se muda para um luxuoso bairro na Califórnia. Após arrumar confusão com pessoas perigosas de seu bairro.</desc>
-</programme>
-...
-<programme start="20211108115100 -0300" stop="20211108124300 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Eu, a Patroa e as Crianças</title>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="GloboNews">
+<title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211108124300 -0300" stop="20211108130800 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >A Boa Vizinhança</title>
-<desc lang="pt-BR">Calvin e Tina decidem fazer o funeral de um morador do bairro que era mesquinho e tinha poucos amigos; Calvin descobre algo inesperado sobre si mesmo.</desc>
-</programme>
-...
-<programme start="20211108130800 -0300" stop="20211108140200 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Um Maluco no Pedaço</title>
-<desc lang="pt-BR">A série conta a história de Will (Will Smith), um jovem de origem humilde que se muda para um luxuoso bairro na Califórnia. Após arrumar confusão com pessoas perigosas de seu bairro.</desc>
-</programme>
-...
-<programme start="20211108140200 -0300" stop="20211108150500 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >A Culpa É do Cabral</title>
-<desc lang="pt-BR">A palavra do dia é intimidade. Nando e sua mãe participam de um teste de afinidade; Rafael passa um trote em mamãe; e, como intimidade se constrói, os comediantes recebem Glenda Kozlowski para uma conversa e um jogo matemático com emoção.</desc>
-</programme>
-...
-<programme start="20211108150500 -0300" stop="20211108162700 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Um Maluco no Pedaço</title>
-<desc lang="pt-BR">A série conta a história de Will (Will Smith), um jovem de origem humilde que se muda para um luxuoso bairro na Califórnia. Após arrumar confusão com pessoas perigosas de seu bairro.</desc>
-</programme>
-...
-<programme start="20211108162700 -0300" stop="20211108183000 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Todo Mundo Odeia o Chris</title>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="BandNews">
+<title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211108183000 -0300" stop="20211108185600 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Já Chegamos?</title>
-<desc lang="pt-BR">Nick acredita que as crianças não gostam dele e, quando vai para a cama, Suzanne não está nem um pouco sensual. Para desagrado de Nick, Suzanne decide unir dois sobrenomes com um hífen: o de Nick e o do ex-marido dela.</desc>
-</programme>
-...
-<programme start="20211108185600 -0300" stop="20211108192400 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Um Maluco no Pedaço</title>
-<desc lang="pt-BR">A série conta a história de Will (Will Smith), um jovem de origem humilde que se muda para um luxuoso bairro na Califórnia. Após arrumar confusão com pessoas perigosas de seu bairro.</desc>
-</programme>
-...
-<programme start="20211108192400 -0300" stop="20211108201700 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Eu, a Patroa e as Crianças</title>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="Nickelodeon">
+<title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211108201700 -0300" stop="20211108220000 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Todo Mundo Odeia o Chris</title>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="CartoonNetwork">
+<title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211108220000 -0300" stop="20211108235800 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >A Culpa É do Cabral</title>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="StarChannel">
+<title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211108235800 -0300" stop="20211109010200 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Comédia Futebol Clube</title>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="ComedyCentral">
+<title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211109010200 -0300" stop="20211109021700 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Um Maluco no Pedaço</title>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="WarnerChannel">
+<title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211109021700 -0300" stop="20211109030700 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >South Park</title>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="DiscoveryChannel">
+<title lang="pt-BR" ></title>
 <desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211109030700 -0300" stop="20211109033300 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Batalha de Lip Sync</title>
-<desc lang="pt-BR">A modelo Gigi Hadid enfrenta o ator Tyler Posey.</desc>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="AnimalPlanet">
+<title lang="pt-BR" ></title>
+<desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211109033300 -0300" stop="20211109035800 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Key & Peele</title>
-<desc lang="pt-BR">As esquetes incluem um traficante que se dá mal, um monstro que é um bebê chorão e Darius Rucker lidando com o sucesso de sua ex-banda.</desc>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="History">
+<title lang="pt-BR" ></title>
+<desc lang="pt-BR"></desc>
 </programme>
 ...
-<programme start="20211109035800 -0300" stop="20211109042900 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Teachers</title>
-<desc lang="pt-BR">Toby Pearson aprende o quão difícil é se tornar professor novamente; a Senhorita Snap lança uma campanha para proibir as selfies; a Senhorita Adler recebe carinho de um estudante.</desc>
+<programme start="20211114060000 -0300" stop="20221114060000 -0300" channel="History2">
+<title lang="pt-BR" ></title>
+<desc lang="pt-BR"></desc>
 </programme>
-...
-<programme start="20211109042900 -0300" stop="20211109045600 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Broad City - A Cidade das Minas</title>
-<desc lang="pt-BR">Ilana embarca em sua mais nova oportunidade de fazer uma grana quando abre um espaço de trabalho ao ar livre para os fumantes da cidade de Nova York; Abbi enfrenta seu senhorio depois que ele se recusa a modernizar o encanamento do apartamento dela.</desc>
-</programme>
-...
-<programme start="20211109045600 -0300" stop="20211109052400 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Idiotando</title>
-<desc lang="pt-BR">Os bonzões nunca falham em dar vexame, de assaltantes atrapalhados a policiais sem noção.</desc>
-</programme>
-...
-<programme start="20211109052400 -0300" stop="20211109054900 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Takeshi's Castle Thailand - O Desafio do Castelo</title>
-<desc lang="pt-BR">Um novo grupo de competidores está pronto para conquistar o Castelo de Takeshi. Eles devem superar-se no escorregadio Fresco Paint e provar que têm a garra necessária para derrotar os guardas do grande Castelo.</desc>
-</programme>
-...
-<programme start="20211109054900 -0300" stop="20211109061200 -0300" channel="ComedyCentral">
-<title lang="pt-BR" >Balcony Stories - Vizinhos de Quarentena</title>
-<desc lang="pt-BR">A série busca celebrar as maneiras positivas e criativas de lidar com o pandemia global de Covid-19.</desc>
-</programme>
-...
 
 </tv>
