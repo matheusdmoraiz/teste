@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="1">
+<channel id="apenasumshow">
 <display-name>24H Apenas um Show</display-name>
 </channel>
-<channel id="2">
+<channel id="bobesponja">
 <display-name>24H Bob Esponja</display-name>
 </channel>
-<channel id="3">
+<channel id="doishomensemeio">
 <display-name>24H Dois Homens e Meio</display-name>
 </channel>
-<channel id="4">
+<channel id="doishomensemeio">
 <display-name>24H Dois Homens e Meio T01 A 06</display-name>
 </channel>
-<channel id="5">
+<channel id="doishomensemeio">
 <display-name>24H Dois Homens e Meio T07 A 12</display-name>
 </channel>
-<channel id="6">
+<channel id="euapatroaeascrianças">
 <display-name>24H Eu a Patroa e as Crianças</display-name>
 </channel>
-<channel id="7">
+<channel id="todomundoodeiaochris">
 <display-name>24H Todo Mundo Odeia o Chris</display-name>
 </channel>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="1">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="apenasumshow">
 <title lang="pt-BR" >Apenas um Show</title>
 <desc lang="pt-BR">As aventuras surreais de um gaio azule um guaxinum que tentam lidar com seus trabalhos tediosos como vigilantes de um parque local.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="2">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="bobesponja">
 <title lang="pt-BR" >Bob Esponja</title>
 <desc lang="pt-BR">Bob Esponja Calça Quadrada é uma esponja do mar que mora em uma casa de abacaxi. Junto ao melhor amigo, Patrick Estrela, ele sempre tira a paciência do vizinho Lula Molusco. Bob Esponja trabalha no Siri Cascudo, para o Sr. Sirigueijo, fazendo os famosos hambúrgueres de siri.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="3">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="doishomensemeio">
 <title lang="pt-BR" >Dois Homens e Meio</title>
 <desc lang="pt-BR">A vida de um homem rico e solteiro, Charlie, que se aborrece quando seu irmão divorciado Alan e seu sobrinho Jake acabam indo morar na sua casa em Malibu. Apesar das enormes diferenças entre os dois irmãos, eles decidem firmar uma parceria para dar um lar ao pequeno Jake.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="4">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="doishomensemeio">
 <title lang="pt-BR" >Dois Homens e Meio</title>
 <desc lang="pt-BR">A vida de um homem rico e solteiro, Charlie, que se aborrece quando seu irmão divorciado Alan e seu sobrinho Jake acabam indo morar na sua casa em Malibu. Apesar das enormes diferenças entre os dois irmãos, eles decidem firmar uma parceria para dar um lar ao pequeno Jake.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="5">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="doishomensemeio">
 <title lang="pt-BR" >Dois Homens e Meio</title>
 <desc lang="pt-BR">A vida de um homem rico e solteiro, Charlie, que se aborrece quando seu irmão divorciado Alan e seu sobrinho Jake acabam indo morar na sua casa em Malibu. Apesar das enormes diferenças entre os dois irmãos, eles decidem firmar uma parceria para dar um lar ao pequeno Jake.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="6">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="euapatroaeascrianças">
 <title lang="pt-BR" >Eu a Patroa e as Crianças</title>
 <desc lang="pt-BR">Tudo o que Michael Kyle quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janet 'Jay', o filho que é fã de rap e passa longe de ser o gênio da família, Michael Jr., e as duas filhas, Claire e Kady, fazem do seu sonho apenas isso: um sonho.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="7">
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="todomundoodeiaochris">
 <title lang="pt-BR" >Todo Mundo Odeia o Chris</title>
 <desc lang="pt-BR">A série conta a história da família Rock entre os anos de 1982 até 1987, com o foco no menino Chris. Em 1982, Chris completa 13 anos e muda-se com a sua família para Bedford-Stuyvesant, no Brooklyn.</desc>
 </programme>
