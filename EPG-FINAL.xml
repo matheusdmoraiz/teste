@@ -1,92 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="GloboNews">
-<display-name>Globo News</display-name>
+<channel id="1">
+<display-name>24H Apenas um Show</display-name>
 </channel>
-<channel id="BandNews">
-<display-name>BandNews</display-name>
+<channel id="2">
+<display-name>24H Bob Esponja</display-name>
 </channel>
-<channel id="Nickelodeon">
-<display-name>Nickelodeon</display-name>
+<channel id="3">
+<display-name>24H Dois Homens e Meio</display-name>
 </channel>
-<channel id="CartoonNetwork">
-<display-name>Cartoon Network</display-name>
+<channel id="4">
+<display-name>24H Dois Homens e Meio T01 A 06</display-name>
 </channel>
-<channel id="StarChannel">
-<display-name>Star Channel</display-name>
+<channel id="5">
+<display-name>24H Dois Homens e Meio T07 A 12</display-name>
 </channel>
-<channel id="ComedyCentral">
-<display-name>Comedy Central</display-name>
+<channel id="6">
+<display-name>24H Eu a Patroa e as Crianças</display-name>
 </channel>
-<channel id="WarnerChannel">
-<display-name>Warner Channel</display-name>
-</channel>
-<channel id="DiscoveryChannel">
-<display-name>Discovery Channel</display-name>
-</channel>
-<channel id="AnimalPlanet">
-<display-name>Animal Planet</display-name>
-</channel>
-<channel id="History">
-<display-name>History Channel</display-name>
-</channel>
-<channel id="History2">
-<display-name>History Channel 2</display-name>
+<channel id="7">
+<display-name>24H Todo Mundo Odeia o Chris</display-name>
 </channel>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="GloboNews">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="1">
+<title lang="pt-BR" >Apenas um Show</title>
+<desc lang="pt-BR">As aventuras surreais de um gaio azule um guaxinum que tentam lidar com seus trabalhos tediosos como vigilantes de um parque local.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="BandNews">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="2">
+<title lang="pt-BR" >Bob Esponja</title>
+<desc lang="pt-BR">Bob Esponja Calça Quadrada é uma esponja do mar que mora em uma casa de abacaxi. Junto ao melhor amigo, Patrick Estrela, ele sempre tira a paciência do vizinho Lula Molusco. Bob Esponja trabalha no Siri Cascudo, para o Sr. Sirigueijo, fazendo os famosos hambúrgueres de siri.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="Nickelodeon">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="3">
+<title lang="pt-BR" >Dois Homens e Meio</title>
+<desc lang="pt-BR">A vida de um homem rico e solteiro, Charlie, que se aborrece quando seu irmão divorciado Alan e seu sobrinho Jake acabam indo morar na sua casa em Malibu. Apesar das enormes diferenças entre os dois irmãos, eles decidem firmar uma parceria para dar um lar ao pequeno Jake.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="CartoonNetwork">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="4">
+<title lang="pt-BR" >Dois Homens e Meio</title>
+<desc lang="pt-BR">A vida de um homem rico e solteiro, Charlie, que se aborrece quando seu irmão divorciado Alan e seu sobrinho Jake acabam indo morar na sua casa em Malibu. Apesar das enormes diferenças entre os dois irmãos, eles decidem firmar uma parceria para dar um lar ao pequeno Jake.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="StarChannel">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="5">
+<title lang="pt-BR" >Dois Homens e Meio</title>
+<desc lang="pt-BR">A vida de um homem rico e solteiro, Charlie, que se aborrece quando seu irmão divorciado Alan e seu sobrinho Jake acabam indo morar na sua casa em Malibu. Apesar das enormes diferenças entre os dois irmãos, eles decidem firmar uma parceria para dar um lar ao pequeno Jake.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="ComedyCentral">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="6">
+<title lang="pt-BR" >Eu a Patroa e as Crianças</title>
+<desc lang="pt-BR">Tudo o que Michael Kyle quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janet 'Jay', o filho que é fã de rap e passa longe de ser o gênio da família, Michael Jr., e as duas filhas, Claire e Kady, fazem do seu sonho apenas isso: um sonho.</desc>
 </programme>
 ...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="WarnerChannel">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
+<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="7">
+<title lang="pt-BR" >Todo Mundo Odeia o Chris</title>
+<desc lang="pt-BR">A série conta a história da família Rock entre os anos de 1982 até 1987, com o foco no menino Chris. Em 1982, Chris completa 13 anos e muda-se com a sua família para Bedford-Stuyvesant, no Brooklyn.</desc>
 </programme>
-...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="DiscoveryChannel">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
-</programme>
-...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="AnimalPlanet">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
-</programme>
-...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="History">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
-</programme>
-...
-<programme start="20211108060000 -0300" stop="20221231000000 -0300" channel="History2">
-<title lang="pt-BR" ></title>
-<desc lang="pt-BR"></desc>
-</programme>
+
 
 </tv>
